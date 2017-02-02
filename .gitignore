@@ -1,0 +1,11 @@
+.project
+**/.settings/**
+**/*.*.swp
+**/bin/**
+**/target/**
+**/.idea/**
+*.iml
+**/coverage/**
+.DS_Store
+/target/
+/src/test/java/com/digital/TicketMaster/
